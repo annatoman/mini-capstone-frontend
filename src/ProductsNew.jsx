@@ -18,7 +18,7 @@ export function ProductsNew(props) {
                 </div>
                 <div>Description:<input name="description" type="text"/>
                 </div>
-                <div>Image:<input name="image" type="text"/>
+                <div>Image:<input name="url" type="text"/>
                 </div>
                 <div>Quantity in Stock:<input name="quantity_in_stock" type="text"/>
                 </div>
